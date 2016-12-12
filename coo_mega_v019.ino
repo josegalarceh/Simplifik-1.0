@@ -1,5 +1,6 @@
 // El Shogo se la come 
 holaaaaaaaaa
+nose que onda pero dice que hay 3 ramas..... que significa eso???
 #include <SPI.h>
 #include <Ethernet.h>
 #include <DS3231.h>
