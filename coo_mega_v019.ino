@@ -9,6 +9,7 @@ RTCDateTime dt;
 ///****************flag control**********/
 // 0: No muestra nada por el serial
 // 1: Muestra todo por el serial
+//algo asi?????
 #define FLAG_CTRL 0
 ///***comunicacion por serial 1 (mega-chibi)***/
 // 0: Mantener comunicacion
