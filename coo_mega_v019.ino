@@ -1,3 +1,4 @@
+// El Shogo se la come 
 #include <SPI.h>
 #include <Ethernet.h>
 #include <DS3231.h>
