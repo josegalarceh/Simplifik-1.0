@@ -3,6 +3,7 @@
 #include <DS3231.h>
 #include <Wire.h>
 //#define controlmega "1 c c"
+//hola miki soy el shogo probando esta baina 1313
 #define controlmega "1    "
 DS3231 clock;
 RTCDateTime dt;
